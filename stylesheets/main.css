@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif; }
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #a00; }
+  header h1{
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    margin: 20px 30px; }
+  header a {
+    margin: 30px;
+    color: white;
+    font-weight: bold; }
